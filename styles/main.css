@@ -1,0 +1,9 @@
+*{
+	box-sizing:border-box;
+}
+.top{
+	padding: 50px;
+}
+.navbar{
+	border-bottom: 1px solid;
+}
