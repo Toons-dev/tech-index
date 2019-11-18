@@ -1,6 +1,4 @@
-<?php
- 	include 'navbar.php';
-?>
+
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -15,12 +13,10 @@
 		<link rel="stylesheet" type="text/css" href="styles/main.css">
 	</head>
 	<body>
-		<!-- <header>
-			<div class="logo"> Tech'Info </div>
-			<input type="text" name="search">
-			<div class="searchbut">Rechercher</div>
-		</header> -->
 		
+		<?php
+ 			include 'navbar.php';
+		?>
 		
 
 		<div class="row">
@@ -84,14 +80,16 @@
 			</div>
 		</div>
 
+		<?php
+ 			include 'footer.php';
+		?>
+
 	<script
   		src="https://code.jquery.com/jquery-3.4.1.min.js"
   		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   		crossorigin="anonymous"></script>
 	<script type="text/javascript" src="script/main.js"></script>
+
 	</body>
 </html>
 
-<?php
- 	include 'footer.php';
-?>

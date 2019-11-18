@@ -8,3 +8,8 @@ h1{
 	font-size: 80px;
 	color: white;
 }
+.user{
+	position: absolute;
+	top: 150px;
+	right: 100px;
+}

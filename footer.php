@@ -1,4 +1,6 @@
-    <footer class="page-footer font-small pt-4" style="background-color: #F0F0F0">
+
+
+<footer class="page-footer font-small pt-4" style="background-color: #76EFD1; padding: 30px;">
         <div class="container-fluid text-center text-md-left">
             <div class="row">
                 <div class="col-md-6 mt-md-0 mt-3">
